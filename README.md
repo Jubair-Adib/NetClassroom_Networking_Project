@@ -207,11 +207,7 @@ You may adapt & extend with proper attribution.
 
 📧 Email: akteradib007@gmail.com
 
-📊 Presentation: NetClassroom_Presentation.pdf
-
-📑 Report: NetClassroom_Report.pdf
-
-🎥 Demo (optional): Coming Soon…
+🎥 Demo (optional): (https://youtu.be/QMD_lJ1OhsE)
 
 <div align="center">
 
